@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing a degree in Chartered Accountancy.
 - 💞️ I’m looking to collaborate on basic level python works.
 - 📫 Reach me at: zaeemmir6@gmail.com
-- ⚡ Fun fact: I run arch btw.
+- ⚡ Fun fact: I love reading gentoo handbook, although i don't understand most of the magic  words they use.
 
 <!---
 ZaeemMir/ZaeemMir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
